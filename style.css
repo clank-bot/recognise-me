@@ -1,0 +1,20 @@
+body{
+    color: black;
+    background-color: cornflowerblue;
+}
+.heading{
+    width: 60%;
+    font-size: 30px;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 350px;
+}
+
+.name_objects,#result_object_name,#result_object_acurracy{
+    font-size: 22px;
+    color: powderblue;
+    font-family: 'Playfair Display', serif;
+}
